@@ -2,7 +2,7 @@
 ###Expected Output
 
 ```python
-"""
+
 PS C:\Users\Venkat\Desktop\__20__final_project.py> & C:/Users/Venkat/AppData/Local/Programs/Python/Python38/python.exe c:/Users/Venkat/Desktop/__20__final_project.py/main.py
 1)user
 2)admin
@@ -196,6 +196,6 @@ PS C:\Users\Venkat\Desktop\__20__final_project.py> & C:/Users/Venkat/AppData/Loc
 3)exit
 3
 PS C:\Users\Venkat\Desktop\__20__final_project.py>
-"""
+
 ```
 **Runing file:-** main.py

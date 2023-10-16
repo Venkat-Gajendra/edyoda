@@ -295,7 +295,14 @@ for i in range(lenth):
 print ('New Stack : ',newstack.get_stack())
 """
 -----Expected Output-----
-
+Enter no of items to Push : 5
+Enter 1th number to append : 10
+Enter 2th number to append : 20
+Enter 3th number to append : 30
+Enter 4th number to append : 40
+Enter 5th number to append : 50
+Original  Stack :  [10, 20, 30, 40, 50]
+New Stack :  [50, 40, 30, 20, 10]
 """
 # Q10. Write a program to find the smallest number using a stack.
 
@@ -340,5 +347,12 @@ print ('Original  Stack : ',stack.get_stack())
 print('Smallest number : ',min(stack.get_stack()))
 """
 -----Expected Output-----
-
+Enter no of items to Push : 5
+Enter 1th number to append : 5
+Enter 2th number to append : 3
+Enter 3th number to append : 2
+Enter 4th number to append : 1
+Enter 5th number to append : 68
+Original  Stack :  [5, 3, 2, 1, 68]
+Smallest number :  1
 """
